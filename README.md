@@ -32,7 +32,7 @@ Website Manajemen Channel White Ivy merupakan aplikasi berbasis Laravel 12 yang 
 
 ## 👨‍💻 Author
 
-White Ivy
+Faris Abqari
 
 Universitas Islam Kalimantan (UNISKA)
 
